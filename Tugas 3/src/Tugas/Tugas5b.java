@@ -19,6 +19,6 @@ public class Tugas5b {
                 System.out.println(i + " ");
                 i = i * 2;
             } while(i <= 100);
-            
     }
 }
+
